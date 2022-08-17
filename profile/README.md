@@ -15,24 +15,14 @@
 - 20220209 感謝「[雲原生台灣社群 Cloud Native Taiwan User Group](https://cloudnative.tw/)」贊助主機
 - 20220219 獲選為「[零時小學校 2021-22 年 Demo Day](https://sch001.g0v.tw/)」獲獎團隊
 - 20220504 與「[開放文化基金會 OCF](https://ocf.tw)」結為合作社群
+- 20220730 完成 CourseAPI 專案之課程資料查詢 API
+  - 於 [COSCUP 2022](https://coscup.org/2022/) 首度公開發表 beta
+  - 於 TOEDU 社群攤位上
 
 ### 團隊專案：CourseAPI 開放式課程資訊匯流學院
 1. Open Course Data/API 研提開放式課程的資料架構 (schema) 與資料交換方案
 2. One-stop 建立一站式開放課程查詢網頁雛形
 3. Co-work 與國內開放式課程營運單位、國高中階段的使用單位交流
-
-### 專案貢獻者（依加入順序排序）
-- Ted
-- chewei
-- did1335
-- clhuang21
-- Minhua
-- tico88612
-- mohsu
-- SF
-- Elaine
-- pan93412
-- Amy
 
 ### 連結傳送站
 - [團隊網頁](https://toedu.g0v.tw/)
@@ -41,3 +31,4 @@
 - [#edu-open 討論紀錄](https://g0v-slack-archive.g0v.ronny.tw/index/channel/C024NAMF0CV)
 - [專案計畫書](https://toedu.notion.site/25e8e775506a4a47aaecb3408faeb3c8)
 - [捐款支持](https://ocf.neticrm.tw/civicrm/contribute/transact?reset=1&id=56)
+- 專案貢獻者、贊助單位 請見[團隊網頁](https://toedu.g0v.tw/)

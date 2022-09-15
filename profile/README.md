@@ -17,7 +17,10 @@
 - 20220504 與「[開放文化基金會 OCF](https://ocf.tw)」結為合作社群
 - 20220730 完成 CourseAPI 專案之課程資料查詢 API
   - 於 [COSCUP 2022](https://coscup.org/2022/) 首度公開發表 beta
-  - 於 TOEDU 社群攤位上進行宣傳與想法交流
+  - 於 COSCUP 社群攤位上進行宣傳與想法交流
+- 202209 完成 CourseAPI 專案之課程查詢網站測試版
+  - 於 [SITCON 2022 Lightning Talk](https://sitcon.org/2022/agenda/8f6fb6) 分享專案進度
+  - 於 SITCON 2022 社群攤位上進行宣傳與想法交流
 
 ### 團隊專案：CourseAPI 開放式課程資訊匯流學院
 1. Open Course Data/API 研提開放式課程的資料架構 (schema) 與資料交換方案

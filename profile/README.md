@@ -16,7 +16,7 @@
 - 20220219 獲選為「[零時小學校 2021-22 年 Demo Day](https://sch001.g0v.tw/)」獲獎團隊
 - 20220504 與「[開放文化基金會 OCF](https://ocf.tw)」結為合作社群
 - 20220730 完成 CourseAPI 專案之課程資料查詢 API
-  - 於 [COSCUP 2022](https://coscup.org/2022/) 首度公開發表 beta
+  - 於 [COSCUP 2022 議程](https://coscup.org/2022/zh-TW/session/EEEDCX) 首度公開發表 beta
   - 於 COSCUP 社群攤位上進行宣傳與想法交流
 - 202209 完成 CourseAPI 專案之課程查詢網站測試版
   - 於 [SITCON 2022 Lightning Talk](https://sitcon.org/2022/agenda/8f6fb6) 分享專案進度

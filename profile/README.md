@@ -24,6 +24,8 @@
 - 202211 初步彙整已釋出課程網址 csv 檔案的政府平台
   - [7000 筆課程資料整合查詢頁面試作](https://app.awesome-table.com/-NHJcD_puwhRauhG891Q/view)
   - [統整後的 csv](https://docs.google.com/spreadsheets/d/1oSRUCJCNTPaV5J3wY-DsktZTrTYWla7bYHV0-u0Meik/edit#gid=0)
+- 202306 以 AI 作為主題，建立主題相關課程彙整方式
+  - [要怎麼樣找到目前 AI 相關的開放式課程？](https://g0v.hackmd.io/@chewei/SJTHgkIP2/https%3A%2F%2Fg0v.hackmd.io%2Fx9z5_P43TDqKMHsuGGJvwA)
 
 ### 團隊專案：CourseAPI 開放式課程資訊匯流學院
 1. Open Course Data/API 研提開放式課程的資料架構 (schema) 與資料交換方案
